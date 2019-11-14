@@ -15,5 +15,4 @@ Algumas funcionalidades serão:
 ## CRC's
 ![CRC_Ambiente](https://user-images.githubusercontent.com/36963093/66438362-d243be80-ea02-11e9-9e28-69b1cd4b052d.PNG)
 ![CRC_Animal](https://user-images.githubusercontent.com/36963093/66438368-d8399f80-ea02-11e9-891b-6c3ddb267684.PNG)
-![CRC_Funcionários](https://user-images.githubusercontent.com/36963093/66438369-d8d23600-ea02-11e9-963c-67c1a9d307d4.PNG)
-![CRC_Gerenciamento](https://user-images.githubusercontent.com/36963093/66438370-d8d23600-ea02-11e9-995b-54ad5e084bf7.png)
+![CRC_Gerenciamento](https://user-images.githubusercontent.com/53871994/68892405-b1594200-0701-11ea-937e-90e2574f667f.png)
